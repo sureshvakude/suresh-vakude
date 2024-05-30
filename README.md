@@ -15,6 +15,6 @@ CONTACT ME:
 [<img align="left" alt="Kartikey's Facebook" width="34px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][fb]
 
 
-[website]: https://avinash201199.github.io/suresh-vakude/
+[website]: https://sureshvakude.github.io/suresh-vakude/
 [instagram]: https://www.instagram.com/sureshvakude/
 [Github]: https://github.com/sureshvakude
